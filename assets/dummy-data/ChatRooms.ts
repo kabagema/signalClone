@@ -13,7 +13,8 @@ export default [{
     id: 'm1',
     content: 'btw, SpaceX is interested in buying notJust.dev!',
     createdAt: '2020-10-03T14:48:00.000Z',
-  }
+  },
+  newMessages: 3,
 }, {
   id: '2',
   users: [{
@@ -29,7 +30,8 @@ export default [{
     id: 'm2',
     content: 'Why did you reject our offer?',
     createdAt: '2020-10-02T15:40:00.000Z',
-  }
+  },
+  newMessages: 0,
 }, {
   id: '3',
   users: [{
