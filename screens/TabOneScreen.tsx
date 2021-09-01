@@ -16,7 +16,7 @@ export default function TabOneScreen() {
                 <Text style={styles.name}>Random Dev</Text>
                 <Text style={styles.text}>2:03 PM</Text>
             </View>
-            <Text style={styles.text}>ayyy macanera </Text>
+            <Text numberOfLines={1} style={styles.text}>ayyy macanera ayyy macanera ayyy macaneraayyy macanera ayyy macanera</Text>
         </View>    
       </View>
     
