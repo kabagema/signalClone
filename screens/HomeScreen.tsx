@@ -4,7 +4,6 @@ import { FlatList, Text, View } from 'react-native';
 import { StyleSheet } from 'react-native';
 
 import ChatRoomItem from '../components/ChatRoomItem';
-
 import chatRoomsData from '../assets/dummy-data/ChatRooms';
 
 
