@@ -1,6 +1,6 @@
 import { BUILDER_KEYS, tSTypeAliasDeclaration } from '@babel/types';
 import * as React from 'react';
-import { FlatList, Text, View } from 'react-native';
+import { FlatList, View } from 'react-native';
 import { StyleSheet } from 'react-native';
 
 import ChatRoomItem from '../components/ChatRoomItem';
