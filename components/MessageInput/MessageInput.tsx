@@ -51,7 +51,7 @@ export default function MessageInput() {
 const styles = StyleSheet.create({
         container: {
                 flexDirection: 'row',
-                padding: 14,
+                padding: 10,
         },
         inputContainer: {
                 backgroundColor:"#f2f2f2",
